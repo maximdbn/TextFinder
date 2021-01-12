@@ -9,6 +9,7 @@
 * numpy
 
 Установите библиотеки: pip install requirements.txt
+
 Установите tesseract
 
 ## Работа с программой
